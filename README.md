@@ -11,5 +11,5 @@ This project will teach you how to use the UIGestureRecognizer, to retrieve user
 
 # Screanshots
 
-![alt text](Screenshots/one.png "1")
-![alt text](Screenshots/two.png "2")
+![please find the image under screenshots directory](Screenshots/one.png "1")
+![please find the image under screenshots directory](Screenshots/two.png "2")
